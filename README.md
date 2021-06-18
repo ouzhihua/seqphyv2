@@ -1,2 +1,2 @@
 # seqphyv2
-A collection of scripts used to process sequences data for phylogenetic analysis
+A collection of scripts used to process sequence data for phylogenetic analysis.
